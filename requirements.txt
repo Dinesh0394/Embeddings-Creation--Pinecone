@@ -1,0 +1,8 @@
+# requirements.txt 
+langchain
+sentence-transformers
+pinecone
+faiss-cpu
+pypdf
+langchain-community
+langchain-huggingface
